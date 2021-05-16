@@ -40,7 +40,6 @@ print("hai")
 ~~
 
 #tables
-
-Table1 | Table2
--------|-------
-Tablebody1| table body2
+table 1 | table 2
+--------|----------------
+tablebody 1 | tablebody 2
