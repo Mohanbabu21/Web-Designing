@@ -37,7 +37,7 @@ Web designing prog by APSSDC
 ~~~python
 def fun():
 print("hai")
-~~
+~~~
 
 table 1 | table 2
 --------|----------------
