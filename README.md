@@ -25,3 +25,22 @@ Web designing prog by APSSDC
     2. natural no
     3. integers
     
+![tajmahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
+
+
+#links
+
+[google](https://www.google.com/)
+
+
+#flavor code
+~~~python
+def fun():
+print("hai")
+~~
+
+#tables
+
+Tables 1     | Tables 2
+-------------|-------------
+Table body1  | table body2
