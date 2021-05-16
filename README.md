@@ -41,6 +41,6 @@ print("hai")
 
 #tables
 
-Table1     | Table2
------------|------------
-Table body1| table body2
+Table1 | Table2
+-------|-------
+Tablebody1| table body2
